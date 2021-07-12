@@ -1,0 +1,1 @@
+cvector library works similar to the vector library used in C++. I defined similar functions to C++ vectors but with a struct based implementation instead of Object Oriented as in C++. Furthermore, also some string funcitons used in C++ (like cvector_find()). 
