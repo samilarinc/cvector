@@ -1,3 +1,4 @@
 bins
 binsobj
 .vscode
+.gitignore
